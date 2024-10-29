@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytis and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on various open source projects
-- 📫 How to reach me frankojure822gmail.com
+- 📫 How to reach me frankojure82gmail.com
 - 
 - ⚡ Fun fact: i'm a gamer. BIG TIME
 
